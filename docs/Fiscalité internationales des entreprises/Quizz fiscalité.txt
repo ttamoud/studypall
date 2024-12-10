@@ -1,0 +1,227 @@
+Quizz fiscalité : 
+Q1: Quelle est la différence principale entre les termes "domicile fiscal" et "résidence fiscale" ?
+A) Les deux termes ont des définitions juridiques différentes
+B) Le domicile fiscal s'applique au droit interne tandis que la résidence fiscale s'applique au droit conventionnel
+C) La résidence fiscale est uniquement utilisée pour les personnes morales
+D) Le domicile fiscal ne concerne que les personnes physiques
+Correct Answer: B
+Explanations:
+A) Incorrect - Les termes sont en fait synonymes, leur différence réside uniquement dans leur contexte d'utilisation
+B) Correct - Comme indiqué dans le cours, la seule différence entre ces termes est leur contexte d'application : le domicile fiscal est utilisé en droit interne, tandis que la résidence fiscale est utilisée dans le cadre conventionnel
+C) Incorrect - La résidence fiscale s'applique tant aux personnes physiques qu'aux personnes morales
+D) Incorrect - Le domicile fiscal s'applique aux deux types de personnes (physiques et morales)
+Q2: Selon l'article 4A du CGI, une personne ayant son domicile fiscal en France est imposable sur :
+A) Uniquement ses revenus de source française
+B) Uniquement ses revenus de source étrangère
+C) L'ensemble de ses revenus de sources française et étrangère
+D) Ses revenus de source française et 50% de ses revenus étrangers
+Correct Answer: C
+Explanations:
+A) Incorrect - Cette règle s'applique aux non-résidents fiscaux
+B) Incorrect - L'imposition ne se limite pas aux seuls revenus étrangers
+C) Correct - L'article 4A du CGI stipule clairement que les personnes ayant leur domicile fiscal en France sont imposables sur l'ensemble de leurs revenus, quelle que soit leur source
+D) Incorrect - Il n'existe pas de règle de partage à 50% pour les revenus étrangers
+Q3: D'après le droit interne français, combien de critères alternatifs existe-t-il pour déterminer le domicile fiscal ?
+A) 2 critères
+B) 3 critères
+C) 4 critères
+D) 5 critères
+Correct Answer: C
+Explanations:
+A) Incorrect - Le nombre de critères est plus élevé selon l'article 4B du CGI
+B) Incorrect - Il manque un critère dans ce décompte
+C) Correct - L'article 4B du CGI définit quatre critères alternatifs : le foyer, le lieu de séjour principal, l'activité professionnelle principale, et le centre des intérêts économiques
+D) Incorrect - Le texte ne prévoit que quatre critères alternatifs
+Q4: Concernant le critère du "foyer", lequel de ces énoncés est correct ?
+A) Le foyer est uniquement déterminé par la présence du conjoint
+B) La présence des enfants n'a aucune influence sur la détermination du foyer
+C) Le foyer reste en France même si le contribuable séjourne ailleurs temporairement pour des raisons professionnelles
+D) Le foyer suit automatiquement le lieu de travail principal
+Correct Answer: C
+Explanations:
+A) Incorrect - Le foyer prend en compte l'ensemble de la famille, pas uniquement le conjoint
+B) Incorrect - La présence des enfants est un élément important dans la détermination du foyer
+C) Correct - Le cours précise que le foyer reste en France même si le contribuable séjourne ailleurs temporairement pour des raisons professionnelles, tant que sa famille y réside
+D) Incorrect - Le lieu de travail n'est pas le critère déterminant pour le foyer
+Q5: En ce qui concerne le lieu de séjour principal, quelle durée minimum de séjour en France entraîne généralement la qualification de domiciliation fiscale ?
+A) 3 mois
+B) Plus de 6 mois
+C) 9 mois
+D) 12 mois
+Correct Answer: B
+Explanations:
+A) Incorrect - Cette durée est insuffisante pour qualifier le séjour principal
+B) Correct - Le cours indique qu'une personne qui séjourne plus de 6 mois en France est en principe considérée comme fiscalement domiciliée en France
+C) Incorrect - Bien que suffisante, cette durée n'est pas le seuil minimal requis
+D) Incorrect - La présence d'une année entière n'est pas nécessaire
+
+
+Q6: Dans le cadre d'une activité professionnelle multiple, comment détermine-t-on l'activité principale ?
+A) Uniquement par le montant des revenus générés
+B) Par le temps consacré à l'activité, même si elle ne génère pas le revenu le plus important
+C) Toujours par le lieu où se trouve le siège social
+D) Par la nationalité du contribuable
+Correct Answer: B
+Explanations:
+A) Incorrect - Le montant des revenus n'est pas le critère principal
+B) Correct - Le cours précise que l'activité principale est celle à laquelle le contribuable consacre le plus de temps, même s'il n'en tire pas l'essentiel de ses revenus
+C) Incorrect - Le siège social n'est pas un critère déterminant pour l'activité principale personnelle
+D) Incorrect - La nationalité n'intervient pas dans la détermination de l'activité principale
+Q7: Comment est défini le centre des intérêts économiques selon le droit fiscal français ?
+A) Uniquement par le lieu des investissements
+B) Exclusivement par le lieu de perception des revenus
+C) Par le lieu où le contribuable possède son compte bancaire principal
+D) Par le lieu où le contribuable a effectué ses principaux investissements, possède le siège de ses affaires et administre ses biens
+Correct Answer: D
+Explanations:
+A) Incorrect - Ce n'est pas le seul critère
+B) Incorrect - La perception des revenus n'est qu'un des éléments
+C) Incorrect - Le compte bancaire n'est pas un critère déterminant
+D) Correct - Le cours définit le centre des intérêts économiques comme le lieu où le contribuable a ses principaux investissements, le siège de ses affaires et d'où il administre ses biens
+Q8: Quelle est la principale différence entre les critères de domiciliation fiscale en droit interne et en droit conventionnel ?
+A) Les critères conventionnels sont moins nombreux
+B) Les critères internes sont hiérarchisés
+C) Les critères conventionnels s'appliquent de façon successive alors que les critères internes sont alternatifs
+D) Les critères conventionnels ne concernent que les entreprises
+Correct Answer: C
+Explanations:
+A) Incorrect - Le nombre de critères n'est pas le point différenciant
+B) Incorrect - C'est l'inverse, les critères internes ne sont pas hiérarchisés
+C) Correct - Le cours indique clairement que les critères internes sont alternatifs alors que les critères conventionnels s'appliquent de façon successive
+D) Incorrect - Les critères conventionnels s'appliquent tant aux personnes physiques qu'aux entreprises
+Q9: Dans le cadre conventionnel, que signifie la notion de "foyer d'habitation permanent" ?
+A) Un lieu où le contribuable séjourne occasionnellement
+B) Une habitation dont le contribuable est nécessairement propriétaire
+C) Une habitation à la disposition permanente du contribuable, qu'il soit propriétaire ou locataire
+D) Uniquement le domicile familial principal
+Correct Answer: C
+Explanations:
+A) Incorrect - La permanence est essentielle, les séjours occasionnels ne suffisent pas
+B) Incorrect - La propriété n'est pas une condition nécessaire
+C) Correct - Le cours précise que toute forme d'habitation peut être prise en compte, que le contribuable en soit propriétaire ou locataire, tant qu'elle est à sa disposition de façon permanente
+D) Incorrect - Le domicile familial n'est pas le seul critère
+Q10: Comment s'applique le critère de séjour habituel dans le cadre conventionnel ?
+A) Il s'applique uniquement si le contribuable n'a pas de foyer permanent dans aucun État
+B) Il s'applique en premier lieu, avant tout autre critère
+C) Il ne s'applique jamais aux personnes physiques
+D) Il s'applique uniquement aux séjours professionnels
+Correct Answer: A
+Explanations:
+A) Correct - Le cours indique que ce critère s'applique soit lorsque le contribuable ne dispose de foyer permanent dans aucun des États, soit lorsque le centre des intérêts vitaux ne peut être déterminé
+B) Incorrect - C'est un critère subsidiaire qui n'intervient qu'après les autres
+C) Incorrect - Il s'applique aussi aux personnes physiques
+D) Incorrect - Tous les types de séjours sont pris en compte
+
+Q11: En cas de conflit de résidence fiscale entre deux États conventionnés, dans quel ordre s'appliquent les critères conventionnels ?
+A) Nationalité, foyer permanent, séjour habituel, centre des intérêts vitaux
+B) Foyer permanent, centre des intérêts vitaux, séjour habituel, nationalité
+C) Centre des intérêts vitaux, nationalité, foyer permanent, séjour habituel
+D) Séjour habituel, foyer permanent, nationalité, centre des intérêts vitaux
+Correct Answer: B
+Explanations:
+A) Incorrect - La nationalité n'est pas le premier critère mais le dernier avant l'accord amiable
+B) Correct - Le cours précise cet ordre exact des critères conventionnels : d'abord le foyer permanent, puis le centre des intérêts vitaux, ensuite le séjour habituel, et enfin la nationalité
+C) Incorrect - Le centre des intérêts vitaux n'est pas le premier critère à examiner
+D) Incorrect - Le séjour habituel n'intervient qu'après le foyer permanent et le centre des intérêts vitaux
+Q12: Quelle est la principale différence entre une entreprise individuelle et une société ?
+A) Une entreprise individuelle ne peut pas avoir de salariés
+B) Une entreprise individuelle n'est pas inscrite au registre du commerce
+C) Une entreprise individuelle n'a pas de personnalité morale distincte de celle de l'entrepreneur
+D) Une entreprise individuelle ne peut pas faire de bénéfices
+Correct Answer: C
+Explanations:
+A) Incorrect - Le cours précise qu'une entreprise individuelle peut avoir des salariés
+B) Incorrect - Les entreprises individuelles doivent être inscrites aux registres appropriés
+C) Correct - La principale différence est l'absence de personnalité morale distincte pour l'entreprise individuelle, contrairement à une société
+D) Incorrect - Une entreprise individuelle peut générer des bénéfices comme toute autre entreprise
+Q13: Comment sont imposés les résultats d'une entreprise individuelle française ayant une exploitation à l'étranger dans un pays non conventionné ?
+A) Uniquement dans le pays étranger
+B) Uniquement en France
+C) En France sur l'ensemble des revenus, avec déduction de l'impôt payé à l'étranger
+D) Les revenus sont exonérés d'impôt dans les deux pays
+Correct Answer: C
+Explanations:
+A) Incorrect - Les revenus sont aussi imposables en France
+B) Incorrect - L'impôt payé à l'étranger est pris en compte
+C) Correct - Le cours indique que les revenus sont imposés en France avec déduction de l'impôt payé à l'étranger comme charge déductible
+D) Incorrect - Il n'y a pas d'exonération totale
+Q14: Quel est le taux minimum d'imposition applicable aux non-résidents percevant des revenus de source française selon l'article 197A du CGI ?
+A) 10% pour tous les revenus
+B) 20% pour la fraction inférieure à 26.070€ et 30% au-delà
+C) 30% pour tous les revenus
+D) 40% pour tous les revenus
+Correct Answer: B
+Explanations:
+A) Incorrect - Le taux minimum est de 20% pour la première tranche
+B) Correct - Le cours précise ces taux exacts : 20% jusqu'à 26.070€ et 30% au-delà
+C) Incorrect - Le taux de 30% ne s'applique qu'à la fraction supérieure à 26.070€
+D) Incorrect - Il n'existe pas de taux minimum de 40%
+Q15: Dans quel cas un non-résident peut-il opter pour les règles d'imposition des résidents fiscaux français ?
+A) Uniquement s'il est européen
+B) S'il peut prouver que le taux moyen d'imposition serait plus avantageux
+C) Uniquement s'il a des enfants scolarisés en France
+D) Uniquement s'il possède un bien immobilier en France
+Correct Answer: B
+Explanations:
+A) Incorrect - Cette option n'est pas limitée aux européens
+B) Correct - Le cours indique que si le contribuable peut démontrer que le taux moyen serait plus avantageux, il peut opter pour les règles d'imposition des résidents
+C) Incorrect - La scolarisation des enfants n'est pas un critère pour cette option
+D) Incorrect - La possession d'un bien immobilier n'est pas un critère déterminant
+
+Q16: Dans le cadre de l'imposition d'une entreprise individuelle étrangère en France, quel est le régime fiscal applicable ?
+A) Uniquement l'impôt sur les sociétés (IS)
+B) L'impôt sur le revenu dans la catégorie des BIC, sur les seuls revenus de source française
+C) Une taxe forfaitaire spéciale pour les entreprises étrangères
+D) L'impôt sur le revenu sur l'ensemble des revenus mondiaux
+Correct Answer: B
+Explanations:
+A) Incorrect - Les entreprises individuelles sont soumises à l'IR et non à l'IS
+B) Correct - Le cours précise que l'entreprise étrangère est imposée à l'IR dans la catégorie des BIC, uniquement sur ses revenus de source française
+C) Incorrect - Il n'existe pas de taxe forfaitaire spéciale
+D) Incorrect - Seuls les revenus de source française sont imposables
+Q17: En cas d'application d'une convention fiscale, comment est traitée l'imposition d'une entreprise individuelle française ayant une exploitation à l'étranger ?
+A) Double imposition systématique
+B) Exonération en France avec prise en compte pour le taux effectif
+C) Imposition uniquement dans le pays étranger
+D) Imposition uniquement en France
+Correct Answer: B
+Explanations:
+A) Incorrect - Les conventions visent justement à éviter la double imposition
+B) Correct - Le cours indique que la France pratique la méthode d'exemption avec réserve de progressivité
+C) Incorrect - Le revenu est pris en compte pour le calcul du taux effectif en France
+D) Incorrect - L'exploitation à l'étranger est imposée dans le pays d'exploitation
+Q18: Comment est déterminé le caractère "accessoire" d'une activité professionnelle en France ?
+A) Uniquement par le montant des revenus générés
+B) Par le temps consacré à l'activité et éventuellement les revenus générés
+C) Par la nature de l'activité uniquement
+D) Par la nationalité du contribuable
+Correct Answer: B
+Explanations:
+A) Incorrect - Les revenus ne sont pas le seul critère
+B) Correct - Le cours indique que c'est d'abord le temps consacré qui compte, et si ce critère n'est pas concluant, les revenus sont pris en compte
+C) Incorrect - La nature de l'activité n'est pas déterminante
+D) Incorrect - La nationalité n'intervient pas dans cette détermination
+Q19: Quelle déclaration doit faire un résident fiscal français ayant des revenus de source étrangère ?
+A) Uniquement la déclaration 2042
+B) Uniquement la déclaration 2047
+C) Les déclarations 2042 et 2047
+D) Une déclaration spéciale auprès du pays étranger
+Correct Answer: C
+Explanations:
+A) Incorrect - La déclaration 2047 est également nécessaire
+B) Incorrect - La déclaration 2042 est également nécessaire
+C) Correct - Le cours précise qu'il faut faire deux déclarations : la 2042 pour l'ensemble des revenus et la 2047 pour les revenus étrangers
+D) Incorrect - Les déclarations concernent l'administration fiscale française
+Q20: Comment sont imposés les déficits d'une entreprise individuelle étrangère en France ?
+A) Ils sont toujours déductibles des revenus de source française
+B) Ils sont uniquement déductibles des revenus de source étrangère
+C) Ils ne sont jamais déductibles
+D) Ils sont déductibles uniquement des revenus de source française de même nature
+Correct Answer: D
+Explanations:
+A) Incorrect - La déduction n'est pas possible sur tous les types de revenus
+B) Incorrect - Les déficits peuvent être imputés sur les revenus de source française
+C) Incorrect - Les déficits sont déductibles dans certains cas
+D) Correct - Le cours indique que les déficits de source française sont imputables sur les revenus de source française de même nature
+
+

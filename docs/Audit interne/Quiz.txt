@@ -1,0 +1,103 @@
+Quiz : 
+1- Question:
+
+Le contrôle interne est un processus mis en œuvre par le conseil, le management et les collaborateurs d'une entité, destiné à fournir une assurance raisonnable quant à la réalisation d'objectifs liés :
+
+Propositions:
+
+à la protection des actifs, au reporting et à la conformité
+aux opérations, au reporting et à la conformité ( bonne réponse ) 
+aux opérations, à la fiabilité des informations financières et à la conformité
+à la stratégie, aux opérations, à la fiabilité des informations financières et à la conformité
+
+2-Question: Quel est le référentiel de contrôle interne le plus appliqué au monde ?
+
+Propositions:
+
+Turnbull
+CoCo
+Coso ( bonne réponse )
+CobiT
+
+3-Question: Quelle composante de contrôle interne comprend les actions définies par les politiques et les procédures afin de s'assurer que les directives du management sont suivies ?
+
+Propositions:
+
+Environnement de contrôle
+Evaluation des risques
+Activités de contrôle interne (bonne réponse ) 
+Pilotage
+
+4-Question:
+
+Laquelle de ces propositions NE définit PAS un risque ?
+Propositions:
+
+La possibilité qu'un événement survienne et ait un impact défavorable sur la réalisation des objectifs.
+L'écart acceptable entre les objectifs et la performance réelle.(bonne réponse ) 
+L'effet de l'incertitude sur des objectifs.
+La possibilité qu'un évènement survienne et dont les conséquences seraient susceptibles d'affecter les personnes, les actifs, l'environnement, les objectifs de la société ou sa réputation.
+
+5-**Question:**
+
+Le niveau de risque auquel une organisation accepte de faire face, correspond à la définition de :
+
+
+**Propositions:**
+
+* La tolérance au risque
+* L'appétence au risque (bonne réponse ) 
+* Le risque résiduel
+* Le risque inhérent
+
+6-**Question:** Quelle forme d'évaluation N'est généralement PAS intégrée dans une unité opérationnelle, mais peut être utile pour évaluer si les cinq composantes de contrôle interne sont mises en œuvre et fonctionnent ?
+
+**Propositions:**
+
+* Evaluations continues
+* Evaluations préventives
+* Evaluations ponctuelles ( bonne réponse ) 
+* Evaluations automatisées
+
+
+7-**Question:** L'audit interne aide une organisation à atteindre ses objectifs en évaluant, par une approche systématique et méthodique, de :
+
+**Propositions:**
+
+* ses processus de management des risques
+* ses processus de contrôle
+* ses processus de gouvernance
+* ses processus de management des risques, de contrôle et de gouvernance ( bonne réponse )
+
+8-Question: 8. CRIPP est l'abréviation de :
+
+Propositions:
+
+Commission des référents internationaux pour les pratiques professionnelles
+Cadre de référence pour l'information des pratiques professionnelles
+Centre régional pour l'information sur les professions paramédicales
+Cadre de référence internationale des pratiques professionnelles ( bonne réponse )
+
+9-**Question:**
+
+Quelles sont les dispositions d'audit interne qui NE sont PAS obligatoires dans le Cadre de Référence International des Pratiques Professionnelles de l'audit interne (CRIPP) ?
+
+
+**Propositions:**
+
+* Les lignes directrices ( bonne réponse ) 
+* Les normes de qualification
+* Les normes de fonctionnement
+* La définition de l'audit interne
+
+10-Question:
+
+"Les auditeurs internes doivent réaliser leurs travaux d'audit interne dans le respect des Normes internationales pour la pratique professionnelle de l'audit interne". A quel principe du code de déontologie de l'audit interne, cette règle de conduite fait elle référence ?
+
+Propositions:
+
+Objectivité
+Compétence ( bonne réponse ) 
+Intégrité
+Confidentialité
+

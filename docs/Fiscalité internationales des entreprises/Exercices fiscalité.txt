@@ -1,0 +1,308 @@
+# Exercices Pratiques de Fiscalité Internationale
+
+## Exercice 1: Calcul de la base imposable d'un entrepreneur individuel avec revenus mixtes
+
+### Contexte
+Un entrepreneur individuel résident fiscal français exploite deux commerces, l'un en France et l'autre dans un pays non conventionné.
+
+### Données
+- Bénéfice du commerce en France : 75.000€
+- Bénéfice du commerce à l'étranger : 35.000€
+- Impôt payé à l'étranger : 8.000€
+
+### Questions
+
+1. Quelle est la base imposable totale en France ?
+   - [ ] A. 110.000€ (somme des deux bénéfices)
+   - [ ] B. 102.000€ (75.000€ + 27.000€)
+   - [ ] C. 75.000€ (uniquement le bénéfice français)
+
+2. Comment doit-on traiter l'impôt payé à l'étranger ?
+   - [ ] A. Il n'est pas pris en compte dans le calcul
+   - [ ] B. Il est déduit du bénéfice étranger avant addition
+   - [ ] C. Il est déduit du montant final de l'impôt français
+
+3. Quelles déclarations l'entrepreneur doit-il faire ?
+   - [ ] A. Uniquement la déclaration 2042
+   - [ ] B. Uniquement la déclaration 2047
+   - [ ] C. Les déclarations 2042 et 2047
+
+### Solution détaillée
+```javascript
+Calcul du bénéfice étranger net :
+35.000€ - 8.000€ = 27.000€
+
+Base imposable totale :
+75.000€ + 27.000€ = 102.000€
+```
+
+### Points clés
+- L'impôt étranger est une charge déductible
+- Nécessité de faire deux déclarations distinctes
+- Application du principe de mondialité
+
+## Exercice 2: Détermination du taux effectif pour un non-résident
+
+### Contexte
+Un entrepreneur individuel italien (pays conventionné) a une exploitation en France et en Italie.
+
+### Données
+- Bénéfice en France : 22.000€
+- Bénéfice en Italie : 18.000€ (après impôt local)
+- Seuil de la deuxième tranche : 26.070€
+- Taux sans option : 20%
+- Taux de la deuxième tranche du barème : 11%
+
+### Questions
+
+1. Quel est le montant de l'impôt sans option pour le régime des résidents ?
+   - [ ] A. 4.400€ (22.000€ × 20%)
+   - [ ] B. 2.420€ (22.000€ × 11%)
+   - [ ] C. 8.000€ (40.000€ × 20%)
+
+2. Quel est le montant de l'impôt avec option pour le régime des résidents ?
+   - [ ] A. 4.400€
+   - [ ] B. 2.420€
+   - [ ] C. 3.300€
+
+3. Quelle option est la plus avantageuse ?
+   - [ ] A. Sans option (taux de 20%)
+   - [ ] B. Avec option (taux de 11%)
+   - [ ] C. Les deux options sont équivalentes
+
+### Solution détaillée
+```javascript
+Sans option :
+22.000€ × 20% = 4.400€
+
+Avec option :
+Revenu total pour détermination du taux : 40.000€
+22.000€ × 11% = 2.420€
+
+Économie : 1.980€
+```
+
+[Suite des exercices...]
+
+## Exercice 3: Impact du lieu de résidence de la famille sur le foyer fiscal
+
+## Exercice 4: Application des critères conventionnels de résidence
+
+### Contexte
+Un entrepreneur ayant des activités dans deux pays conventionnés avec :
+- Un appartement dans chaque pays
+- Des activités commerciales dans les deux pays
+- Une famille résidant dans le pays A
+- La nationalité du pays B
+
+### Questions
+
+1. Quel critère conventionnel doit être examiné en premier ?
+   - [ ] A. La nationalité
+   - [ ] B. Le foyer d'habitation permanent
+   - [ ] C. Le centre des intérêts économiques
+
+2. Si le premier critère est non concluant, quel est le critère suivant ?
+   - [ ] A. Le séjour habituel
+   - [ ] B. Le centre des intérêts vitaux
+   - [ ] C. La nationalité
+
+3. Dans ce cas précis, quel est le pays de résidence fiscale ?
+   - [ ] A. Pays A (présence de la famille)
+   - [ ] B. Pays B (nationalité)
+   - [ ] C. Les deux pays à égalité
+
+### Solution détaillée
+```javascript
+Analyse des critères successifs :
+1. Foyer permanent : non concluant (deux foyers)
+2. Centre des intérêts vitaux : Pays A (présence famille)
+Résidence fiscale : Pays A
+```
+
+### Points clés
+- Les critères conventionnels s'appliquent successivement
+- La présence de la famille est un élément important pour le centre des intérêts vitaux
+- La nationalité n'intervient qu'en dernier recours
+
+[...]
+
+## Exercice 5: Calcul d'imposition avec la méthode d'exemption avec réserve de progressivité
+
+### Contexte
+Un entrepreneur individuel français ayant une exploitation en France et dans un pays conventionné.
+
+### Données
+- Bénéfice en France : 60.000€
+- Bénéfice dans le pays conventionné : 90.000€
+- Impôt payé à l'étranger : 25.000€
+
+### Questions
+
+1. Quel montant doit être utilisé pour déterminer le taux d'imposition ?
+   - [ ] A. 60.000€ (uniquement le bénéfice français)
+   - [ ] B. 125.000€ (60.000€ + (90.000€ - 25.000€))
+   - [ ] C. 150.000€ (60.000€ + 90.000€)
+
+2. Comment calculer l'impôt final en France ?
+   - [ ] A. Appliquer le taux au revenu total
+   - [ ] B. Appliquer le taux uniquement au revenu français
+   - [ ] C. Appliquer le taux au revenu mondial net
+
+3. Quel est le rôle du revenu étranger dans ce calcul ?
+   - [ ] A. Il est ignoré complètement
+   - [ ] B. Il sert uniquement à déterminer le taux
+   - [ ] C. Il est imposé partiellement
+
+### Solution détaillée
+```javascript
+1. Calcul du revenu total pour taux :
+   60.000€ + (90.000€ - 25.000€) = 125.000€
+
+2. Détermination du taux moyen :
+   Pour 125.000€ = 41%
+
+3. Application au revenu français :
+   60.000€ × 41% = 24.600€
+```
+
+### Points clés
+- Le revenu étranger sert uniquement à déterminer le taux
+- L'impôt n'est calculé que sur le revenu français
+- L'impôt étranger est déduit avant calcul du taux effectif
+
+## Exercice 6: Détermination des obligations déclaratives
+
+### Contexte
+Un entrepreneur individuel avec des revenus mixtes (France et étranger) doit déterminer ses obligations déclaratives.
+
+### Données
+- Bénéfice d'exploitation en France : 45.000€
+- Bénéfice d'exploitation à l'étranger : 30.000€
+- Impôt payé à l'étranger : 7.000€
+
+### Questions
+
+1. Que doit contenir la déclaration 2042 ?
+   - [ ] A. Uniquement le revenu français
+   - [ ] B. Le revenu mondial net (68.000€)
+   - [ ] C. Les revenus bruts sans déduction
+
+2. Que doit contenir la déclaration 2047 ?
+   - [ ] A. Uniquement le revenu étranger brut
+   - [ ] B. Le revenu étranger net
+   - [ ] C. Le revenu étranger brut et l'impôt payé
+
+3. Comment traiter l'impôt étranger ?
+   - [ ] A. Ne pas le déclarer
+   - [ ] B. Le déclarer sur la 2047 uniquement
+   - [ ] C. Le déclarer sur les deux déclarations
+
+### Solution détaillée
+```javascript
+Déclaration 2042 :
+Revenu global = 45.000€ + (30.000€ - 7.000€) = 68.000€
+
+Déclaration 2047 :
+Revenu étranger brut : 30.000€
+Impôt payé : 7.000€
+Revenu net : 23.000€
+```
+
+### Points clés
+- Nécessité de deux déclarations distinctes
+- Importance de déclarer les montants bruts et nets
+- L'impôt étranger doit être clairement identifié
+
+## Exercice 7: Analyse d'une situation de double résidence avec optimisation fiscale
+
+### Contexte
+Un entrepreneur individuel avec des activités réparties entre la France et l'Italie (pays conventionné).
+
+### Données
+- Revenu France : 85.000€
+- Revenu Italie : 65.000€
+- Impôt payé en Italie : 20.000€
+- Option 1 : Régime des non-résidents (taux minimum 20%)
+- Option 2 : Option pour le régime des résidents
+
+### Questions
+
+1. Quel est le montant de l'impôt en régime non-résident ?
+   - [ ] A. 17.000€ (85.000€ × 20%)
+   - [ ] B. 26.000€ (130.000€ × 20%)
+   - [ ] C. 13.000€ (65.000€ × 20%)
+
+2. Quel est le taux effectif en régime résident ?
+   - [ ] A. 20%
+   - [ ] B. 30%
+   - [ ] C. 41%
+
+3. Quelle option est la plus avantageuse ?
+   - [ ] A. Régime non-résident
+   - [ ] B. Régime résident
+   - [ ] C. Les deux sont équivalents
+
+### Solution détaillée
+```javascript
+Option 1 - Régime non-résident :
+85.000€ × 20% = 17.000€
+
+Option 2 - Régime résident :
+Revenu total : 85.000€ + (65.000€ - 20.000€) = 130.000€
+Taux effectif : 41%
+Impôt : 85.000€ × 41% = 34.850€
+
+Différence : 17.850€ en faveur du régime non-résident
+```
+
+### Points clés
+- Importance de comparer les options disponibles
+- Impact significatif du taux effectif
+- Prise en compte de la situation globale
+
+## Exercice 8: Analyse d'un changement de résidence fiscale en cours d'année
+
+### Contexte
+Un entrepreneur individuel qui déménage sa famille et son entreprise d'un pays non conventionné vers la France en cours d'année.
+
+### Données
+- Revenus pays d'origine (janvier-juin) : 45.000€
+- Impôt payé dans le pays d'origine : 12.000€
+- Revenus France (juillet-décembre) : 55.000€
+
+### Questions
+
+1. Comment calculer la période d'imposition en France ?
+   - [ ] A. Sur l'année entière
+   - [ ] B. Au prorata temporis
+   - [ ] C. Uniquement sur les revenus français
+
+2. Quelle est la base imposable en France ?
+   - [ ] A. 55.000€ (uniquement revenus français)
+   - [ ] B. 71.500€ (55.000€ + 16.500€)
+   - [ ] C. 100.000€ (totalité des revenus)
+
+3. Comment déclarer les revenus étrangers ?
+   - [ ] A. En totalité sur la 2047
+   - [ ] B. Au prorata sur la 2047
+   - [ ] C. Ne pas les déclarer
+
+### Solution détaillée
+```javascript
+Revenu étranger net : 
+45.000€ - 12.000€ = 33.000€
+
+Proratisation revenu étranger :
+33.000€ × 6/12 = 16.500€
+
+Base imposable France :
+55.000€ + 16.500€ = 71.500€
+```
+
+### Points clés
+- Nécessité de proratiser les revenus étrangers
+- Distinction des périodes de résidence/non-résidence
+- Application du principe de mondialité après installation
+- Importance de la documentation des revenus étrangers
+- Traitement particulier de l'impôt étranger
